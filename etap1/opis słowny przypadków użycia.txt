@@ -1,0 +1,27 @@
+poruszanie: 
+Użytkownik wybiera współrzędne miejsca, na  którym chce podjąć jakieś działanie za pomocą strzałek.
+
+łączenie:
+Użytkownik wybiera rodzaj łącznika, czyli które punkty chce ze sobą połączyć.
+
+zatwierdź:
+Użytkownik potwierdza dodanie łącznika na współrzędne na których się obecnie znajduje.
+
+wyczyśćKomórkę:
+Użytkownik usuwa zawartość z komórki na której  współrzędnych obecnie się  znajduje.
+
+reset:
+ Użytkownik przwraca początkową planszę pobraną z pliku.
+
+cofnij:
+Użytkownik czyści komórkę na której ostatnio został dodany łącznik.
+
+odczyt:
+Plansza przyjmuje wartości odczytanego pliku.
+
+zapis:
+Obecna plansza jest zapisywana do pliku.
+
+czyWygrałeś:
+Sprawdzany jest warunek czy po zapełnieniu wszystkich pól planszy, obecna plansza jest identyczna do planszy z wynikiem wygrywającym. 
+                                             
